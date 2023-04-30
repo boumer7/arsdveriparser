@@ -2,6 +2,9 @@
 Простой парсер написанный на Python с использование библиотеки BeautifulSoup, собирающий с магазина дверей картинку, название и цену
 каждой позиции.
 
+A simple parser written in Python using BeautifulSoup library, which collects the picture, name and price of
+of each item (1, 2, 3 columns).
+
 | Ссылка на фото                                                                 	| Название двери                 	| Цена      	|
 |--------------------------------------------------------------------------------	|--------------------------------	|-----------	|
 | https://arsdveri.ru/wp-content/uploads/2022/10/diva-510.jpg                    	| Входная дверь DIVA 510         	| 25  550 ₽ 	|
