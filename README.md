@@ -5,7 +5,7 @@
 A simple parser written in Python using BeautifulSoup library, which collects the picture, name and price of
 of each item (1, 2, 3 columns).
 
-![image](https://user-images.githubusercontent.com/33152397/235354494-dcf8f2f9-66f8-4384-91af-5f32bf984022.png)
+![image](https://user-images.githubusercontent.com/33152397/235354521-e8d9f236-2c24-4b12-a2b2-0ffe700c8d2d.png)
 
 | Ссылка на фото                                                                 	| Название двери                 	| Цена      	|
 |--------------------------------------------------------------------------------	|--------------------------------	|-----------	|
